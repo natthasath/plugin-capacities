@@ -1,17 +1,17 @@
 {
   "name": "plugin-capacities",
   "version": "0.1.0",
-  "description": "Plugin รวม Skills สำหรับ Capacities PKM ครอบคลุมการจัดการ Object Types, Tags, Collections และ Workflow",
-  "author": {
+  "description": "Plugin รวม Skills สำหรับ Capacities PKM",
+  "owner": {
     "name": "natthasath"
   },
-  "repository": "https://github.com/natthasath/plugin-capacities",
-  "keywords": ["capacities", "pkm", "knowledge-management", "daily-notes", "mood", "tags"],
-  "skills": [
+  "plugins": [
     {
       "name": "skill-mood-tags",
       "description": "วิเคราะห์อารมณ์จาก Daily Notes และแนะนำ Mood Tag ตาม Yale Mood Meter Framework",
-      "path": "skills/skill-mood-tags/SKILL.md"
+      "version": "0.1.0",
+      "source": "./skills/skill-mood-tags",
+      "keywords": ["mood", "tags", "daily-notes", "capacities", "pkm"]
     }
   ]
 }
