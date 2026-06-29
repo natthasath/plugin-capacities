@@ -34,6 +34,13 @@
       "source": "./plugins/plugin-roleplay",
       "category": "productivity",
       "keywords": ["roleplay", "interview", "investigation", "strategy", "simulation"]
+    },
+    {
+      "name": "plugin-social-post",
+      "description": "Plugin รวม Skills สำหรับสร้างโพสต์โซเชียลมีเดีย ครอบคลุม Facebook และ LinkedIn",
+      "source": "./plugins/plugin-social-post",
+      "category": "productivity",
+      "keywords": ["social-media", "facebook", "linkedin", "content", "post", "thought-leadership"]
     }
   ]
 }

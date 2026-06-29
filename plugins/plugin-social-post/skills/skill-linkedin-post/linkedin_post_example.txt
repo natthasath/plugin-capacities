@@ -1,0 +1,9 @@
+👋 Project Success: My First Microsoft Extension to Backup Forms
+
+🥇 Major Wins I built my first Microsoft Edge Extension to scan and export data from Microsoft Forms into a structured JSON file — solving a long-standing pain point of form backup limitations.
+
+🎓 Lessons Learned Previously, I relied on duplicating forms into Group Forms for backups. Building this tool taught me how to interact with web DOMs, handle async data, and respect security boundaries.
+
+💎 Recognition & Rewards Although unofficial, this tool has been a game-changer for our internal workflow. It's now part of our backup routine — and my confidence in writing browser extensions just leveled up.
+
+แฮชแท็ก#MicrosoftForms แฮชแท็ก#BrowserExtension แฮชแท็ก#AutomationTools แฮชแท็ก#ITInnovation แฮชแท็ก#FormBackup แฮชแท็ก#WebDev แฮชแท็ก#EdgeExtension แฮชแท็ก#EngineeringWins
