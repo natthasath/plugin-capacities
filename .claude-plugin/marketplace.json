@@ -13,6 +13,13 @@
       "source": "./plugins/plugin-capacities",
       "category": "productivity",
       "keywords": ["capacities", "pkm", "mood", "tags", "daily-notes"]
+    },
+    {
+      "name": "plugin-project-masterplan",
+      "description": "Plugin รวม Skills สำหรับวางแผนโปรเจกต์ ครอบคลุม Project Masterplan, System Requirement, Database Design และ Architecture",
+      "source": "./plugins/plugin-project-masterplan",
+      "category": "development",
+      "keywords": ["masterplan", "project", "architecture", "database", "requirement", "system-analysis"]
     }
   ]
 }
