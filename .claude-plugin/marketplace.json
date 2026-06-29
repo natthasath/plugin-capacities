@@ -27,6 +27,13 @@
       "source": "./plugins/plugin-refactor",
       "category": "development",
       "keywords": ["refactor", "dockerfile", "docker-compose", "shell-script", "devops", "best-practices"]
+    },
+    {
+      "name": "plugin-roleplay",
+      "description": "Plugin รวม Skills สำหรับ Role-Play และการจำลองสถานการณ์ ครอบคลุม การสอบสวน, การสัมภาษณ์งาน และผู้ช่วยยุทธศาสตร์ระดับประเทศ",
+      "source": "./plugins/plugin-roleplay",
+      "category": "productivity",
+      "keywords": ["roleplay", "interview", "investigation", "strategy", "simulation"]
     }
   ]
 }
